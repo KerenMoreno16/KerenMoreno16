@@ -81,6 +81,11 @@
 
 ---
 
+### TaskFlow Full Stack App 
+
+> Created a Modern full stack task management application built with React, Node.js, Express, and MongoDB Atlas.
+> Link: [View Project](https://github.com/KerenMoreno16/taskflow-fullstack-app) 
+
 <br/>
 
 <!-- GitHub Stats -->
