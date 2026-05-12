@@ -4,9 +4,13 @@
 </h1>
 
 <p align="center">
-  <b>Data Engineer & Analyst</b> | Turning raw data into actionable insights  
+  <b>Data Engineer, Analyst & Aspiring Full Stack Developer</b>  
   <br/>
-  Passionate about data pipelines, automation, and visual storytelling.
+  Turning raw data into actionable insights through data engineering, analytics, and modern web applications.
+  <br/><br/>
+  Passionate about data pipelines, automation, cloud technologies, and visual storytelling.
+  <br/>
+  I also enjoy building applications with JavaScript, React, Node.js, and creating modern user experiences as a hobby.
 </p>
 
 <br/>
