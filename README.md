@@ -33,37 +33,40 @@
   <!-- Main Stack -->
   <img src="https://skillicons.dev/icons?i=python,react,nodejs,javascript,html,css,tailwind,mongodb,express,vite,git,docker,aws,azure,gcp" />
 
-  <br/><br/>
+  <br/>
+
+<p align="center">
 
   <!-- Databricks -->
-  <img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" width="50px" title="Databricks"/>
+  <img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
 
   <!-- Snowflake -->
-  <img src="https://cdn.worldvectorlogo.com/logos/snowflake-6.svg" width="50px" title="Snowflake"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
 
   <!-- Pandas -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="80px" title="Pandas"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
   <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="MySQL"/>
-
-  <!-- MongoDB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" title="MongoDB"/>
-
-  <!-- Excel -->
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40px" title="Excel"/>
-
-  <!-- Tableau -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="60px" title="Tableau"/>
-
-  <!-- Power BI -->
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40px" title="Power BI"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
   <!-- Airflow -->
-  <img src="https://cdn.worldvectorlogo.com/logos/apache-airflow.svg" width="45px" title="Apache Airflow"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+  <!-- Tableau -->
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+  <!-- Power BI -->
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+  <!-- Excel -->
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
   <!-- Linux -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" title="Linux"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 </p>
 
@@ -78,6 +81,22 @@
 - Tools: Pandas, Matplotlib, Seaborn
 - Dataset: [Kaggle - Sales Data](https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset) 
 - Link: [View Project](https://github.com/KerenMoreno16/sales-eda-project)
+
+---
+
+### TaskFlow Full Stack App 
+
+> Created a Modern full stack task management application built with React, Node.js, Express, and MongoDB Atlas.
+- Link: [View Project](https://github.com/KerenMoreno16/taskflow-fullstack-app) 
+
+---
+
+### DataVision Full Stack App
+
+> A modern full-stack analytics dashboard platform to provide interactive business intelligence insights and enterprise-style reporting.
+- Tools: React.js,React Router DOM, Node.js, Kaggle Dataset
+- Dataset: [Kaggle - Sales Data](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset?resource=download)
+- Link: [View Project](https://github.com/KerenMoreno16/datavision-app)
 
 ---
 
@@ -106,21 +125,7 @@
 - Visualization: Power BI
 - Link: [View Project](https://github.com/kerenmoreno/dashboard-powerbi) 
 
----
-
-### TaskFlow Full Stack App 
-
-> Created a Modern full stack task management application built with React, Node.js, Express, and MongoDB Atlas.
-- Link: [View Project](https://github.com/KerenMoreno16/taskflow-fullstack-app) 
-
 <br/>
-
-### DataVision Full Stack App
-
-> A modern full-stack analytics dashboard platform to provide interactive business intelligence insights and enterprise-style reporting.
-- Tools: React.js,React Router DOM, Node.js, Kaggle Dataset
-- Dataset: [Kaggle - Sales Data](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset?resource=download)
-- Link: [View Project](https://github.com/KerenMoreno16/datavision-app) 
 
 <!-- GitHub Stats -->
 <h2 align="center">My GitHub Stats</h2>
