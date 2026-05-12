@@ -8,8 +8,6 @@
   <br/>
   Turning raw data into actionable insights through data engineering, analytics, and modern web applications.
   <br/><br/>
-  Passionate about data pipelines, automation, cloud technologies, and visual storytelling.
-  <br/>
   I also enjoy building applications with JavaScript, React, Node.js, and creating modern user experiences as a hobby.
 </p>
 
