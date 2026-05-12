@@ -1,18 +1,18 @@
 <!-- Header -->
 <h1 align="center">
-  👋 Hi, I'm Keren Moreno
+  Hi, I'm Keren Moreno
 </h1>
 
 <p align="center">
   <b>Data Engineer & Analyst</b> | Turning raw data into actionable insights  
   <br/>
-  Passionate about data pipelines, automation, and visual storytelling. 💡
+  Passionate about data pipelines, automation, and visual storytelling.
 </p>
 
 <br/>
 
 <!-- Certifications -->
-<h2 align="center">🎓 Certifications</h2>
+<h2 align="center"> Certifications</h2>
 <p  align="center">
   <a href="https://www.credly.com/badges/f8d23cac-187c-49c5-aa6c-10c68c4ac085?source=linked_in_profile" target="_blank">
     <img src="https://img.shields.io/badge/AZ--900-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
@@ -26,7 +26,7 @@
 </p>
 <br/>
 <!-- Skills Section -->
-<h2 align="center">🛠️ Technologies I Use</h2>
+<h2 align="center"> Technologies I Use</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,docker,aws,azure,gcp" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="80px" title="Pandas"/>
@@ -43,14 +43,14 @@
 <br/>
 
 <!-- Projects Section -->
-<h2 align="center">🔍 My Projects</h2>
+<h2 align="center"> My Projects</h2>
 
-### 📊 Exploratory Data Analysis of Sales Data 
+### Exploratory Data Analysis of Sales Data 
 
 > Cleaned, transformed, and visualized sales data using Python.
 - Tools: Pandas, Matplotlib, Seaborn
-- Dataset: [Kaggle - Sales Data](https://www.kaggle.com/dataset/sales-data-sample) 
-- Link: [View Project](https://github.com/kerenmoreno/projeto-analise-vendas) 
+- Dataset: [Kaggle - Sales Data](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset?resource=download) 
+- Link: [View Project]([https://github.com/kerenmoreno/projeto-analise-vendas](https://github.com/KerenMoreno16/sales-eda-project)) 
 
 ---
 
