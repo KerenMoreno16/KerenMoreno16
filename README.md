@@ -49,7 +49,7 @@
 
 > Cleaned, transformed, and visualized sales data using Python.
 - Tools: Pandas, Matplotlib, Seaborn
-- Dataset: [Kaggle - Sales Data](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset?resource=download) 
+- Dataset: [Kaggle - Sales Data](https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset) 
 - Link: [View Project](https://github.com/KerenMoreno16/sales-eda-project)
 
 ---
@@ -87,6 +87,13 @@
 - Link: [View Project](https://github.com/KerenMoreno16/taskflow-fullstack-app) 
 
 <br/>
+
+### DataVision Full Stack App
+
+> A modern full-stack analytics dashboard platform to provide interactive business intelligence insights and enterprise-style reporting.
+- Tools: React.js,React Router DOM, Node.js, Kaggle Dataset
+- Dataset: [Kaggle - Sales Data](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset?resource=download)
+- Link: [View Project](https://github.com/KerenMoreno16/datavision-app) 
 
 <!-- GitHub Stats -->
 <h2 align="center">My GitHub Stats</h2>
