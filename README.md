@@ -28,16 +28,41 @@
 <!-- Skills Section -->
 <h2 align="center"> Technologies I Use</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,docker,aws,azure,gcp" />
+  <!-- Main Stack -->
+  <img src="https://skillicons.dev/icons?i=python,react,nodejs,javascript,html,css,tailwind,mongodb,express,vite,git,docker,aws,azure,gcp" />
+
+  <br/><br/>
+
+  <!-- Databricks -->
+  <img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" width="50px" title="Databricks"/>
+
+  <!-- Snowflake -->
+  <img src="https://cdn.worldvectorlogo.com/logos/snowflake-6.svg" width="50px" title="Snowflake"/>
+
+  <!-- Pandas -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="80px" title="Pandas"/>
+
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" title="MySQL"/>
+
+  <!-- MongoDB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" title="MongoDB"/>
+
   <!-- Excel -->
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40px" title="Excel"/>
+
   <!-- Tableau -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="60px" title="Tableau"/>
+
   <!-- Power BI -->
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40px" title="Power BI"/>
+
+  <!-- Airflow -->
+  <img src="https://cdn.worldvectorlogo.com/logos/apache-airflow.svg" width="45px" title="Apache Airflow"/>
+
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" title="Linux"/>
+
 </p>
 
 <br/>
