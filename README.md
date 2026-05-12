@@ -50,7 +50,7 @@
 > Cleaned, transformed, and visualized sales data using Python.
 - Tools: Pandas, Matplotlib, Seaborn
 - Dataset: [Kaggle - Sales Data](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset?resource=download) 
-- Link: [View Project]([https://github.com/kerenmoreno/projeto-analise-vendas](https://github.com/KerenMoreno16/sales-eda-project)) 
+- Link: [View Project](https://github.com/KerenMoreno16/sales-eda-project).
 
 ---
 
