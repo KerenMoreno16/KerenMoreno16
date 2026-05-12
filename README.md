@@ -27,7 +27,9 @@
 <br/>
 <!-- Skills Section -->
 <h2 align="center"> Technologies I Use</h2>
+
 <p align="center">
+
   <!-- Main Stack -->
   <img src="https://skillicons.dev/icons?i=python,react,nodejs,javascript,html,css,tailwind,mongodb,express,vite,git,docker,aws,azure,gcp" />
 
